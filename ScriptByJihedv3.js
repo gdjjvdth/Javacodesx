@@ -46,7 +46,6 @@ window.location.href="https://en.arabsmodder.com";};
 copy.setAttribute("href","https://en.arabsmodder.com");};
 
 
-
 function ArCallback(){
   /*Your Script is here to maintain performance.*/
 /* lazy youtube */
