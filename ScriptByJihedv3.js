@@ -42,8 +42,8 @@ const jo={};!function ArabsModderThemeScript(){var U=window,a2=document,b=setTim
 window.onload = function(){
 var copy=document.getElementById("mogibo");
 if(copy==null){
-window.location.href="https://www.arabsmodder.com";};
-copy.setAttribute("href","https://www.arabsmodder.com");};
+window.location.href="https://en.arabsmodder.com";};
+copy.setAttribute("href","https://en.arabsmodder.com");};
 
 
 
